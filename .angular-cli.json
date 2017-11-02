@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "project": {
-    "name": "lesson4-form-td"
+    "name": "lesson5-form-reactive"
   },
   "apps": [
     {
